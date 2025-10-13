@@ -17,5 +17,6 @@ authRoutes.post("/googlelogin", googleLogin);
 authRoutes.post("/adminlogin", adminLogin);
 
 export default authRoutes;
-//dfdsfsdfd
-//kjhishfidsjfosidf
+
+// my router is a vikas
+// my router is a rajpasi
